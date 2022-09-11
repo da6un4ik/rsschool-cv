@@ -7,7 +7,18 @@
 - Discord: @da6un4ik
 
 ## About myself:
-I am a civil engineer. My dream is to change my profession and become a front-end developer.
+I am a civil engineer. My dream is to change my profession and become a front-end developer. 
+
+## Skils:
+
+
+- HTML
+- CSS
+- Java Script
+- SQL
+- Python
+
+
 ## Code example:
 ```const countChars = (str, char) => {
   let i = 0;
