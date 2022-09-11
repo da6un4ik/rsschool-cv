@@ -9,7 +9,7 @@
 ## About myself:
 I am a civil engineer. My dream is to change my profession and become a front-end developer. 
 
-## Skils:
+## Skills:
 
 
 - HTML
